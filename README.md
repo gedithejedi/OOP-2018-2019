@@ -59,7 +59,7 @@ Study the Ship example we made and make sure you know how it works. Make sure yo
 
 Ok! Your task today is to use what you learned in Monday's class to make a Radar class in your *assignment* repo:
 
-[![YouTube](http://img.youtube.com/vi/SQ3mj3u00T8/0.jpg)](https://www.youtube.com/watch?v=SQ3mj3u00T8)
+[![YouTube](https://youtu.be/2G33N81Tl5k.jpg)](https://youtu.be/2G33N81Tl5k)
 
 
 Make a class called Radar, with appropriate fields, accessors, constructors and methods 
